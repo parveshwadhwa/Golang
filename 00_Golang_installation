@@ -1,0 +1,2 @@
+1. Install the latest Go version (Because older versions doesn't support multiple modules)
+2. Install Go extensions in VS code as well for better experience

@@ -1,0 +1,13 @@
+1. GoLang is compiled language like java is between the compiled and interpreted language, like we get a class file first then that file will be executed 
+through JVM but here Go tool can run file directly , without any virtual machine (VM).
+
+2. When and where to use Golang ?
+  system apps to web apps we can use golang anywhere as it is production ready
+
+3. Is this language object oriented ?
+   Yes and No , like we dont have any classes or method over riding or any other feature used in other OOP languages here we have structs as this language is
+   designed in such a way what you see on the screen is code u can directly predict what is written in the code for what purpose 
+
+4. Very importantly , we dont need to import packages everytime, Go automatically import these packages if we use any of them
+5. To run go file, just type command (go run main.go) 
+6. Tu initiate a module , just type command (go mod init [name])

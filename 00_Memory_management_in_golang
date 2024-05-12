@@ -1,0 +1,11 @@
+1. Memory allocation and Deallocation happens automatically 
+
+2. new() Allocate memory but not init
+   new() You will get a memory address
+   new() zeroed storage
+
+3. make() Allocate memory and initialized
+   make() You will get memory address 
+   non zeroed storage
+
+4. Garbage Collection happens automatically (out of scope or nil)

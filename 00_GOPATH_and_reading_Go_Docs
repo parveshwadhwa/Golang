@@ -1,0 +1,3 @@
+1. To get know about the commands or tools in go , you can just run a command (go help) to read about the commands
+2. To know more about particular command we can use (go help <command>) 
+3. go run command just compiles and run the Go program

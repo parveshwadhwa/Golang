@@ -1,0 +1,23 @@
+Every language has a lexer , The job of the lexer is basically to check u follow the grammer rules of the language so that syntax is correct 
+and the variables you declared are properly used or not before compilation time like we dont have to put semi colons after each line of code 
+because this all can handle by lexer alone  
+
+------------Types in Golang --------------
+
+1. Almost case sensitive
+2. Variable type should be known in advance
+3. Everything is type as we all know in javascript everything is object so same in Golang , everything is type
+
+String 
+Bool
+Integer       :  uint8     uint64     int8    int64     uintptr
+Floating      :  float32   float64
+
+Array 
+Maps
+Slices
+Structs
+Pointers
+Functions
+Channels
+Mutex
